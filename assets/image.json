@@ -1,0 +1,50 @@
+[
+  {
+    "id": "img1",
+    "src": "./textures/image1.jpg",
+    "position": { "x": 2, "y": 3, "z": -1 },
+    "scale": 1.0,
+    "title": "Winter Wonderland",
+    "description": "A beautiful snowy landscape with pine trees covered in fresh snow."
+  },
+  {
+    "id": "img2",
+    "src": "./textures/image2.jpg",
+    "position": { "x": -1.5, "y": 4, "z": 0.5 },
+    "scale": 0.9,
+    "title": "Cozy Fireplace",
+    "description": "Warm fireplace with stockings hanging above, creating a cozy atmosphere."
+  },
+  {
+    "id": "img3",
+    "src": "./textures/image3.jpg",
+    "position": { "x": 1, "y": 1, "z": 2 },
+    "scale": 1.1,
+    "title": "Christmas Decorations",
+    "description": "Colorful ornaments and lights decorating a beautifully trimmed tree."
+  },
+  {
+    "id": "img4",
+    "src": "./assets/textures/image4.jpg",
+    "position": { "x": -2, "y": 2, "z": -1.5 },
+    "scale": 0.8,
+    "title": "Gift Wrapping",
+    "description": "Artfully wrapped presents with ribbons and bows under the tree."
+  },
+  {
+    "id": "img5",
+    "src": "./assets/textures/image5.jpg",
+    "position": { "x": 0, "y": 5, "z": -0.5 },
+    "scale": 1.2,
+    "title": "Christmas Dinner",
+    "description": "Festive holiday meal with traditional dishes and decorations."
+  },
+  {
+    "id": "img6",
+    "src": "./assets/textures/image6.jpg",
+    "position": { "x": 2.5, "y": 0, "z": 1 },
+    "scale": 1.0,
+    "title": "Snowflake Close-up",
+    "description": "Detailed macro photograph of a unique snowflake crystal."
+  }
+]
