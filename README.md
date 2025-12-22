@@ -59,7 +59,7 @@ npm start
 
 ---
 
- 📁 Project Structure
+### 📁 Project Structure
 project/
 ├── index.html              # Main HTML entry
 ├── styles/
@@ -94,6 +94,8 @@ project/
 ├── package.json
 └── README.md
 
+---
+
 🖼️ Adding Your Own Images
 1. Add image files
 
@@ -101,11 +103,11 @@ Place your images in:
 
 assets/textures/
 
+---
 
 Supported formats:
 
 .jpg
-
 .png
 
 2. Update images.json
@@ -131,7 +133,10 @@ position	3D position { x, y, z }
 scale	Size multiplier (default: 1.0)
 title	Display title (optional)
 description	Display description (optional)
-🎮 Controls
+
+---
+
+### 🎮 Controls
 
 Drag — Rotate camera
 
