@@ -57,9 +57,11 @@ done
 
 npm start
 
----
+```
 
-### 📁 Project Structure
+## 📁 Project Structure
+
+```
 project/
 ├── index.html              # Main HTML entry
 ├── styles/
@@ -93,25 +95,19 @@ project/
 │   └── textures/           # Image assets
 ├── package.json
 └── README.md
-
----
-
-🖼️ Adding Your Own Images
+```
+## 🖼️ Adding Your Own Images
+```
 1. Add image files
 
 Place your images in:
-
 assets/textures/
 
----
-
 Supported formats:
-
 .jpg
 .png
 
 2. Update images.json
-
 Edit assets/images.json:
 
 [
@@ -134,8 +130,8 @@ scale	Size multiplier (default: 1.0)
 title	Display title (optional)
 description	Display description (optional)
 
+```
 ---
-
 ### 🎮 Controls
 
 Drag — Rotate camera
@@ -227,44 +223,3 @@ Requires WebGL support.
 📄 License
 
 MIT License — see LICENSE file for details.
-
-🤝 Contributing
-
-Fork the repository
-
-Create a feature branch
-
-git checkout -b feature/your-feature
-
-
-Commit your changes
-
-git commit -m "Add new feature"
-
-
-Push to your branch
-
-git push origin feature/your-feature
-
-
-Open a Pull Request
-
-🙏 Acknowledgments
-
-Three.js community
-
-Inspired by modern 3D portfolio galleries
-
-Built with ❤️ for the holiday season 🎄
-
-
----
-
-### ✅ What to do next
-
-1. Save this as `README.md`
-2. Commit it:
-   ```bash
-   git add README.md
-   git commit -m "Add professional README"
-   git push
